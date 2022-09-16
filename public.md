@@ -39,6 +39,8 @@
     git add --all
     git commit -m "feat: amazing feature description"
 
+*(use present tense)*
+
 - feat: The new feature you're adding to a particular application
 - fix: A bug fix
 - style: Feature and updates related to styling
