@@ -1,7 +1,3 @@
-# Ecommerce Node Backend
-
-This is a simple ecommerce backend API to use with your frontend store.
-
 # Collaboration & starting guide
 
 **New developers welcome**
