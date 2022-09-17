@@ -3,9 +3,9 @@
 ## Starting:
     git clone https://github.com/Eloi-Perez/ecommerce-node-backend.git
     cd ecommerce-node-backend
-    git checkout -b userName@feature
+    git checkout -b new-feature
 
-**Now create .env file, copy the keys from .env.example and add your config** (email config is not needed as the email sending is commented atm for testing new features easily)
+**Now create .env file, copy the keys from .env.example and add your config**
 
     npm install
     npm run dev

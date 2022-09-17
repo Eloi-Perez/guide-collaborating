@@ -5,6 +5,8 @@
 
 *On this repository on GitHub on the top right, press the button "Fork" then, "Create Fork"*
 
+**Clone it**
+
 *On your computer, clone the fork:*
 
     git clone https://github.com/your-user-name/ecommerce-node-backend.git
@@ -12,8 +14,6 @@
     git checkout -b userName@feature
 
 **Now create .env file, copy the keys from .env.example and add your config**
-
-*(email config is not needed as the email sending is commented atm for testing new features easily)*
 
     npm install
     npm run dev
