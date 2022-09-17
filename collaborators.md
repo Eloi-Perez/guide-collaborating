@@ -1,11 +1,4 @@
-# Collaboration & starting guide
-
-**New developers welcome**
-
-## Prerequisite:
-- node: ">=16.0.0"
-- npm: ">=7.0.0"
-- MongoDB installed and running locally or in Atlas
+# Collaboration guide for repository Collaborators
 
 ## Starting:
     git clone https://github.com/Eloi-Perez/ecommerce-node-backend.git
@@ -16,15 +9,6 @@
 
     npm install
     npm run dev
-
-## Style guide:
-
-- no ``;`` at the end of the line
-- ``''`` instead of ``""`` on JS code
-- 2 spaces indenting
-- variable names in camelCase: 	``newVariable``
-- new files names:		``new-file``
-- new folder names:		``new-folder``
 
 ## Git committing guide:
 
