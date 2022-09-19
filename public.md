@@ -53,4 +53,4 @@
 
 *(you could instead click "pull request" on the menu and select manually a branch from your fork)*
 
-**I will review the Pull Request and merge it**
+**The owner will review the Pull Request and merge it**
