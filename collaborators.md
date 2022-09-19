@@ -45,4 +45,4 @@ Once you have something functional push your code
     git push
 
 ### Now Go to GitHub and create a Pull Request
-**I will review the Pull Request and merge it**
+**The owner will review the Pull Request and merge it**
