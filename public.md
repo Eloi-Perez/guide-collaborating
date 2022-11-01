@@ -9,8 +9,8 @@
 
 *On your computer, clone the fork:*
 
-    git clone https://github.com/your-user-name/ecommerce-node-backend.git
-    cd ecommerce-node-backend
+    git clone https://github.com/your-user-name/project-name.git
+    cd project-name
     git checkout -b userName@feature
 
 **Now create .env file, copy the keys from .env.example and add your config**
