@@ -3,7 +3,7 @@
 ## Starting:
 **Fork the repository**
 
-*On this repository on GitHub on the top right, press the button "Fork" then, "Create Fork"*
+    On this repository on GitHub on the top right, press the button "Fork" then, "Create Fork"
 
 **Clone it**
 
