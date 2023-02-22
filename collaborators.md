@@ -1,8 +1,8 @@
 # Collaboration guide for repository Collaborators
 
 ## Starting:
-    git clone https://github.com/Eloi-Perez/ecommerce-node-backend.git
-    cd ecommerce-node-backend
+    git clone https://github.com/Eloi-Perez/repository-name.git
+    cd repository-name
     git checkout -b new-feature
 
 **Now create .env file, copy the keys from .env.example and add your config**
