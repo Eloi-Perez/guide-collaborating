@@ -1,7 +1,7 @@
 # Collaboration guide for repository Collaborators
 
 ## Starting:
-    git clone https://github.com/Eloi-Perez/repository-name.git
+    git clone https://github.com/User-Name/repository-name.git
     cd repository-name
     git checkout -b new-feature
 
